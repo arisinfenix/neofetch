@@ -8036,6 +8036,32 @@ ods+/:-----://+oyydmNMMMMMMMMMMMMMMMMMN-
 EOF
         ;;
 
+        "KittyOs"*)
+            set_colors 1 8
+            read -rd '' ascii_data <<'EOF'
+${c1}              .-::////::-.
+         `-/osssssssssssssso/-`
+       .+ssssssssssssssssssssss+.
+     .osssssssssssssssssssssssssso.
+   `+sh${c2}mh${c1}ssssssssssssssssssssss${c2}hm${c1}hs/`
+  `ossh${c2}MMNd${c1}yssssssssssssssssyd${c2}NMM${c1}dsso`
+  osssh${c2}MMMMMmhdmNNMMMMNNmdhdMMMMM${c1}dssso
+ :ssssh${c2}MMMMMMMMMMMMMMMMMMMMMMMMMM${c1}dssss:
+ sssssd${c2}MMMMMMMMMMMMMMMMMMMMMMMMMM${c1}msssss
+`sssssd${c2}MMMMMMMMMMMMMMMNNMMNNNMMMM${c1}msssss`
+`ssssd${c2}MMMMMh${c1}yy${c2}dd${c1}yy${c2}hMMh${c1}ss${c2}dd${c1}ss${c2}smMMMM${c1}mysss`
+ ossym${c2}MMMMM${c1}yssssssh${c2}MM${c1}mysssssh${c2}NMMMM${c1}mysso
+ :ssssh${c2}NMMMM${c1}myssym${c2}MMMM${c1}mdyshm${c2}MMMMM${c1}hssss:
+  +ssssyd${c2}MMMMM${c1}mm${c2}MMMMMMMM${c1}nm${c2}MMMMM${c1}myssss+
+  `osssssy${c2}NMMMMMMMMMMMMMMMMMMN${c1}hssssso`
+    /ssssss${c2}hdNMMMMMMMMMMMMMmh${c1}ysssss/
+     .+ssssss${c2}hNhdmMMMMNdhmh${c1}ssssss+.
+       ./sssss${c2}y${c1}ssss${c2}yhy${c1}sss${c2}y${c1}yssss/.
+          ./+ssssssssssssss+/.
+              `.-::::::-.`
+EOF
+        ;;
+
         "Kogaion"*)
             set_colors 4 7 1
             read -rd '' ascii_data <<'EOF'
